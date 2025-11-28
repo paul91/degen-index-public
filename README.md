@@ -70,7 +70,6 @@ All inference is **read-only** and used only for generating analytics summaries.
 
 The final dashboard and analytics UI will be hosted at:
 
-**https://degenindex.com**  
 (placeholder until launch)
 
 ---
